@@ -171,14 +171,16 @@ Core metrics developed in DAX, designed to work at both state and national level
 - **Cards (2025 baseline):** Renewable capacity, Renewable Generation, Total Capacity, Total Generation, avoided emissions, Total CO2 emissions, Grid emission intensity, capacity factor (%), 2020-25 capacity and generation growth.
 - **Graphs:** Total capacity & generation trends, emissions trends, avoided emissions, Capacity and Generation share by source for year 2000-2025
 - **Slicers:** Year, source, source Type, Is Renewable.
-![National Level  Energy Summary](https://github.com/user-attachments/assets/82640fb9-21c2-4ea1-9981-a9391be77717)
+![National Level  Energy Summary](https://github.com/user-attachments/assets/fa7ffc91-8160-4357-874a-5f7e200dd0ee)
+
 
 ### 8.2 Page 2 - State Level Energy Summary (1/2)
 
 - **Cards (2025):** Same KPIs as national but state-specific.
 - **Graphs:** Same trends but state-specific for year 2016-2025
 - **Slicers:** Year, state, region, source, source type, Is renewable
-![State Level  Energy Summary page1_2](https://github.com/user-attachments/assets/36fd44f6-91d0-4380-8281-4c3f6ab2fb41)
+![State Level  Energy Summary page1_2](https://github.com/user-attachments/assets/452b66b1-5511-444b-ad64-3d6507731433)
+
 
 ### 8.3 Page 3 - State Level Energy Summary (2/2)
 
@@ -242,3 +244,4 @@ M.TECH.(Energy Systems Engineering) - IIT BOMBAY
 \[Linkedin Profile\]  
 
 (<https://www.linkedin.com/in/tarun-chandra-72701b85>)
+
