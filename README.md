@@ -1,6 +1,6 @@
 # **India Energy Transition Dashboard (2000-2025)**
 
-**Power BI Dashboard**
+**Power BI Dashboard (https://github.com/tarunchandra007/India_Energy_Transition_Dashboard/raw/refs/heads/main/PBIX/India_Energy_Transition_Dashboard.pbix)**
 
 ## 1\. Project Overview
 
